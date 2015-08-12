@@ -112,15 +112,14 @@ public class MainWindow extends javax.swing.JFrame {
             return;
         }
         
-        Divisores divisores = new Divisores();
-        c = divisores.Primero(p);
+        c = Divisores.Primero(p);
         while (c > 0) {            
-            if (divisores.Valido(p, c)) {
+            if (Divisores.Valido(p, c)) {
                 txtNumberOutput.append(
-                    divisores.Mostrar(p, c));
+                    Divisores.Mostrar(p, c));
                 txtNumberOutput.append("\n");
             }
-            c = divisores.Siguiente(p, c);
+            c = Divisores.Siguiente(p, c);
         }
         
     }//GEN-LAST:event_btnNumberInputActionPerformed

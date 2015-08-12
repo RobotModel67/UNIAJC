@@ -18,20 +18,21 @@ public class Program {
         
     }
     
-    
+    /**
+     * Test de Divisores
+     */
     
     public static void testDivisores() {
         
         System.out.println("Encontrando divisores ***");
-        Divisores divisores = new Divisores();
         int p = 15;
-        int c = divisores.Primero(p);
+        int c = Divisores.Primero(p);
         while (c > 0) {            
-            if (divisores.Valido(p, c)) {
+            if (Divisores.Valido(p, c)) {
                 System.out.println(
-                    divisores.Mostrar(p, c));
+                    Divisores.Mostrar(p, c));
             }
-            c = divisores.Siguiente(p, c);
+            c = Divisores.Siguiente(p, c);
         }
         System.out.println("*** END ***");
     }
