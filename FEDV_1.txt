@@ -1,0 +1,555 @@
+No. Contrato	Documento	TIPO-DOCUMENTO	Ciudad Documento	DOCENTE	Categoria	ASIGNATURA	GRUPO	HORAS SEMESTRE	tipo_2	Valor Hora	Fecha Inicia	Fecha Termina	No. CUOTAS
+1	66982062	Cédula	Cali- Valle	Ada Luz Navia Suarez	Auxiliar	Práctica Pedagógica V          	520	58	Pregrado	34320	43862	43992	4.25
+1	66982062	Cédula	Cali- Valle	Ada Luz Navia Suarez	Auxiliar	Electiva II: Gerencia estratégica II	920	38	Pregrado	34320	43862	43992	4.25
+1	66982062	Cédula	Cali- Valle	Ada Luz Navia Suarez	Auxiliar	Práctica Pedagógica V          	S594	58	Pregrado	34320	43862	43992	4.25
+1	66982062	Cédula	Cali- Valle	Ada Luz Navia Suarez	Auxiliar	Práctica Pedagógica V          	595	58	Pregrado	34320	43862	43992	4.25
+2	31151195	Cédula	Cali-Valle	Aida Luz Ocampo de Becerra	Auxiliar	Psicología del Desarrollo Infantil 	S324	48	Pregrado	34320	43862	43992	4.25
+2	31151195	Cédula	Cali-Valle	Aida Luz Ocampo de Becerra	Auxiliar	Práctica Pedagógica III   	S394	48	Pregrado	34320	43862	43992	4.25
+2	31151195	Cédula	Cali-Valle	Aida Luz Ocampo de Becerra	Auxiliar	Práctica Pedagógica III   	395	48	Pregrado	34320	43862	43992	4.25
+2	31151195	Cédula	Cali-Valle	Aida Luz Ocampo de Becerra	Auxiliar	Psicología Educativa	520	38	Pregrado	34320	43862	43992	4.25
+3	1144134723	Cédula	Cali-Valle	Alberto Aragon Muriel	Auxiliar	Quimica II	S2491	48	Pregrado	34320	43862	44020	5.25
+3	1144134723	Cédula	Cali-Valle	Alberto Aragon Muriel	Auxiliar	Quimica II	S2491B	48	Pregrado	34320	43862	44020	5.25
+3	1144134723	Cédula	Cali-Valle	Alberto Aragon Muriel	Auxiliar	Química I	SB1491	48	Pregrado	34320	43862	44020	5.25
+4	10232554	Cédula	Manizales-Caldas	Alberto Montoya Duque	Auxiliar	Medicina Preventiva	5490B	48	Pregrado	34320	43862	43992	4.25
+4	10232554	Cédula	Manizales-Caldas	Alberto Montoya Duque	Auxiliar	Medicina del Trabajo	6490	48	Pregrado	34320	43862	43992	4.25
+4	10232554	Cédula	Manizales-Caldas	Alberto Montoya Duque	Auxiliar	Medicina Preventiva	S5491	48	Pregrado	34320	43862	43992	4.25
+4	10232554	Cédula	Manizales-Caldas	Alberto Montoya Duque	Auxiliar	Medicina del Trabajo	S6491	48	Pregrado	34320	43862	43992	4.25
+5	16863207	Cédula	CERRITO VALLE	Alexander Aguirre García	Auxiliar	Facturación en Salud	6496	48	Pregrado	34320	43862	43992	4.25
+5	16863207	Cédula	CERRITO VALLE	Alexander Aguirre García	Auxiliar	Administración en Salud I	S2496	48	Pregrado	34320	43862	43992	4.25
+6	16716602	Cédula	Cali-Valle	Alexander Herrera Villarejo	Auxiliar	Medicina del Trabajo	6490B	48	Pregrado	34320	43862	43992	4.25
+6	16716602	Cédula	Cali-Valle	Alexander Herrera Villarejo	Auxiliar	Medicina Preventiva	S5490	48	Pregrado	34320	43862	43992	4.25
+7	16375984	Cédula	Cali-Valle	Alexander Urrutia Valdés	Auxiliar	Economía de la Salud	5495	48	Pregrado	34320	43862	43992	4.25
+7	16375984	Cédula	Cali-Valle	Alexander Urrutia Valdés	Auxiliar	Economía de la Salud	5496	48	Pregrado	34320	43862	43992	4.25
+7	16375984	Cédula	Cali-Valle	Alexander Urrutia Valdés	Auxiliar	Principios de Farmacoeconomía	6495	48	Pregrado	34320	43862	43992	4.25
+7	16375984	Cédula	Cali-Valle	Alexander Urrutia Valdés	Auxiliar	Principios de Farmacoeconomía	6496	48	Pregrado	34320	43862	43992	4.25
+8	14590257	Cédula	Cali-Valle	Alexander Zurita Garcia	Auxiliar	Medicina Preventiva	5491	48	Pregrado	34320	43864	43992	4.25
+8	14590257	Cédula	Cali-Valle	Alexander Zurita Garcia	Auxiliar	Medicina del Trabajo	6491	48	Pregrado	34320	43864	43992	4.25
+8	14590257	Cédula	Cali-Valle	Alexander Zurita Garcia	Auxiliar	Medicina Preventiva	5490	48	Pregrado	34320	43864	43992	4.25
+9	31710502	Cédula	Cali-Valle	Alexandra Bejarano Jimenez	Auxiliar	Ciencia Tecnología y Desarrollo	B1491	38	Pregrado	34320	43862	44020	5.25
+9	31710502	Cédula	Cali-Valle	Alexandra Bejarano Jimenez	Auxiliar	Sistemas de gestión en Salud Ocupacional I	9490	48	Pregrado	34320	43862	44020	5.25
+9	31710502	Cédula	Cali-Valle	Alexandra Bejarano Jimenez	Auxiliar	Práctica Profesional 	10490	48	Pregrado	34320	43862	44020	5.25
+9	31710502	Cédula	Cali-Valle	Alexandra Bejarano Jimenez	Auxiliar	Práctica Profesional 	S10490	48	Pregrado	34320	43862	44020	5.25
+9	31710502	Cédula	Cali-Valle	Alexandra Bejarano Jimenez	Auxiliar	Seguridad y Salud en el Trabajo	270 /721	48	Pregrado	34320	43862	44020	5.25
+10	29116441	Cédula	Cali-Valle	Ana Marcela Gil Caicedo	Auxiliar	Didactica en Salud Ocupacional	6490	38	Pregrado	34320	43862	43992	4.25
+10	29116441	Cédula	Cali-Valle	Ana Marcela Gil Caicedo	Auxiliar	Didactica en Salud Ocupacional	6490B	38	Pregrado	34320	43862	43992	4.25
+10	29116441	Cédula	Cali-Valle	Ana Marcela Gil Caicedo	Auxiliar	Didactica en Salud Ocupacional	S6490	38	Pregrado	34320	43862	43992	4.25
+11	66840835	Cédula	Cali- Valle	Ana Marcela Morales Poveda	Auxiliar	Quimica II	2492B	48	Pregrado	34320	43862	44020	5.25
+11	66840835	Cédula	Cali- Valle	Ana Marcela Morales Poveda	Auxiliar	Quimica II	2491	48	Pregrado	34320	43862	44020	5.25
+11	66840835	Cédula	Cali- Valle	Ana Marcela Morales Poveda	Auxiliar	Quimica II	2491B	48	Pregrado	34320	43862	44020	5.25
+11	66840835	Cédula	Cali- Valle	Ana Marcela Morales Poveda	Auxiliar	Química I	SB1490	48	Pregrado	34320	43862	44020	5.25
+11	66840835	Cédula	Cali- Valle	Ana Marcela Morales Poveda	Auxiliar	Coordinaciòn laboratorios de Facultad		120	Asesoría	23100	43862	44020	5.25
+12	52435588	Cédula	BOGOTA D.C.	Andrea Bibiana Perez Villescas	Auxiliar	Anatomia y Fisiologia	3491	48	Pregrado	34320	43862	43992	4.25
+12	52435588	Cédula	BOGOTA D.C.	Andrea Bibiana Perez Villescas	Auxiliar	Ergonomía I	7491	48	Pregrado	34320	43862	43992	4.25
+12	52435588	Cédula	BOGOTA D.C.	Andrea Bibiana Perez Villescas	Auxiliar	Ergonomía I	7490B	48	Pregrado	34320	43862	43992	4.25
+13	6646342	Cédula	Palmira-Valle	Andres Felipe Ochoa Florez	Auxiliar	Higiene III (Riesgos Físicos (Ruido, Iluminación  y Vibración)	7491	38	Pregrado	34320	43862	43992	4.25
+13	6646342	Cédula	Palmira-Valle	Andres Felipe Ochoa Florez	Auxiliar	"Higiene IV (Riesgos Físicos (Radiación y campos electromagnéticos; Temperaturas extremas)"	8491	38	Pregrado	34320	43862	43992	4.25
+13	6646342	Cédula	Palmira-Valle	Andres Felipe Ochoa Florez	Auxiliar	Ecología	2490	38	Pregrado	34320	43862	43992	4.25
+13	6646342	Cédula	Palmira-Valle	Andres Felipe Ochoa Florez	Auxiliar	Ecología	2490B	38	Pregrado	34320	43862	43992	4.25
+14	93397777	Cédula	Cali-Valle	Andres Sanchez Quintero	Auxiliar	Legislación en Salud Ocupacional I	4490	38	Pregrado	34320	43862	43992	4.25
+14	93397777	Cédula	Cali-Valle	Andres Sanchez Quintero	Auxiliar	Legislación en Salud Ocupacional I	S4490	38	Pregrado	34320	43862	43992	4.25
+14	93397777	Cédula	Cali-Valle	Andres Sanchez Quintero	Auxiliar	Legislación en Salud Ocupacional I	4491	38	Pregrado	34320	43862	43992	4.25
+14	93397777	Cédula	Cali-Valle	Andres Sanchez Quintero	Auxiliar	Legislación en Salud Ocupacional II	5490	38	Pregrado	34320	43862	43992	4.25
+14	93397777	Cédula	Cali-Valle	Andres Sanchez Quintero	Auxiliar	Legislación en Salud Ocupacional II	5490B	38	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Seminario de Introducción a las Ciencias del Deporte	S225B	38	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Política Pública para el Deporte y la Educación Física	S725	48	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Seminario de Introducción a las Ciencias del Deporte	S285B	38	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Psicomotricidad	S385	38	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Psicomotricidad	S385B	38	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Política Pública para el Deporte y la Educación Física	S785	48	Pregrado	34320	43862	43992	4.25
+15	1120360880	Cédula	Granada Meta	Angela Maria Garcia Sterling	Auxiliar	Virtualización Política Pública para el Deporte y la Educación Física		40	Asesoría	23100	43862	43992	4.25
+16	66839756	Cédula	Cali-Valle	Anyela Fanery Mosquera Lozano	Auxiliar	Evaluación y Gestión de Proyectos de Salud	7496	48	Pregrado	34320	43862	43992	4.25
+16	66839756	Cédula	Cali-Valle	Anyela Fanery Mosquera Lozano	Auxiliar	Evaluación y Gestión de Proyectos de Salud	S7495	48	Pregrado	34320	43862	43992	4.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	Práctica Pedagógica VIII	820	58	Pregrado	34320	43862	44020	5.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	Práctica Pedagógica VII         	795	58	Pregrado	34320	43862	44020	5.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	Investigación y Educación	S594	48	Pregrado	34320	43862	44020	5.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	Práctica Pedagógica VII         	S794	58	Pregrado	34320	43862	44020	5.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	coinvestigadora Proyecto aprobado Decanato 		42	Investigación	17160	43862	44020	5.25
+17	41933214	Cédula	Armenia	Berna García Varela	Auxiliar	Directora Semillero SIPI		48	Asesoría	23100	43862	44020	5.25
+18	67004950	Cédula	Cali-Valle	Brenda Catherine Umbarila Forigua	Auxiliar	Fundamentos de Psicología	295	48	Pregrado	34320	43862	43992	4.25
+18	67004950	Cédula	Cali-Valle	Brenda Catherine Umbarila Forigua	Auxiliar	Psicología del Desarrollo Infantil 	320	48	Pregrado	34320	43862	43992	4.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Reconocimiento al potencial individual	895	48	Pregrado	34320	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Reconocimiento al potencial individual	S894	48	Pregrado	34320	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Reconocimiento al potencial individual	820	48	Pregrado	34320	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Coordinación Semillero SITAC		48	Asesoría	23100	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Evaluación en la Educación Física	S525	48	Pregrado	34320	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Evaluación en la Educación Física	S525B	48	Pregrado	34320	43862	44020	5.25
+19	1130633052	Cédula	Cali-Valle	Bryan Camilo Hernández Montoya	Auxiliar	Evaluación en la Educación Física	S585	48	Pregrado	34320	43862	44020	5.25
+20	14473594	Cédula	Buenaventura	Carlos Arturo Cortes Angulo	Auxiliar	Didáctica de la Educación Física y el Deporte	795	48	Pregrado	34320	43862	43992	4.25
+20	14473594	Cédula	Buenaventura	Carlos Arturo Cortes Angulo	Auxiliar	Psicomotricidad	S3722	48	Pregrado	34320	43862	43992	4.25
+20	14473594	Cédula	Buenaventura	Carlos Arturo Cortes Angulo	Auxiliar	Corrientes Pedagógicas de la Educación Física	S285	48	Pregrado	34320	43862	43992	4.25
+20	14473594	Cédula	Buenaventura	Carlos Arturo Cortes Angulo	Auxiliar	Fundamentos del Entrenamiento Deportivo	S385B	48	Pregrado	34320	43862	43992	4.25
+21	79276741	Cédula	Bogota D.C	Carlos Mauricio Niño Vasquez	Auxiliar	"Higiene IV (Riesgos Físicos (Radiación y campos electromagnéticos; Temperaturas extremas)"	8490	38	Pregrado	34320	43862	43992	4.25
+21	79276741	Cédula	Bogota D.C	Carlos Mauricio Niño Vasquez	Auxiliar	"Higiene IV (Riesgos Físicos (Radiación y campos electromagnéticos; Temperaturas extremas)"	8490B	38	Pregrado	34320	43862	43992	4.25
+21	79276741	Cédula	Bogota D.C	Carlos Mauricio Niño Vasquez	Auxiliar	Análisis resultados de muestreo ambiental	9490	48	Pregrado	34320	43862	43992	4.25
+22	31969431	Cédula	Cali-Valle	Claudia Guzmán	Auxiliar	Fundamentos de Psicología	220	48	Pregrado	34320	43862	43992	4.25
+22	31969431	Cédula	Cali-Valle	Claudia Guzmán	Auxiliar	Práctica Pedagógica III      	320	48	Pregrado	34320	43862	43992	4.25
+22	31969431	Cédula	Cali-Valle	Claudia Guzmán	Auxiliar	Axiología del Educador	820	38	Pregrado	34320	43862	43992	4.25
+22	31969431	Cédula	Cali-Valle	Claudia Guzmán	Auxiliar	Práctica Pedagógica III      	S324	48	Pregrado	34320	43862	43992	4.25
+23	67006070	Cédula	Cali-Valle	Claudia Patricia Sánchez Arteaga	Auxiliar	Iniciativa Empresarial	2494	38	Pregrado	34320	43862	43992	4.25
+23	67006070	Cédula	Cali-Valle	Claudia Patricia Sánchez Arteaga	Auxiliar	Administración Clínica y Hospitalaria	6495	48	Pregrado	34320	43862	43992	4.25
+23	67006070	Cédula	Cali-Valle	Claudia Patricia Sánchez Arteaga	Auxiliar	Electiva Profesional I	6496	48	Pregrado	34320	43862	43992	4.25
+23	67006070	Cédula	Cali-Valle	Claudia Patricia Sánchez Arteaga	Auxiliar	Electiva Profesional III	8496	48	Pregrado	34320	43862	43992	4.25
+24	31179045	Cédula	Palmira-Valle	Constanza Leonor Núñez Mejía	Asistente	Salud y Medio Ambiente	2495B	48	Pregrado	38480	43862	43992	4.25
+24	31179045	Cédula	Palmira-Valle	Constanza Leonor Núñez Mejía	Asistente	Salud y Medio Ambiente	2495	48	Pregrado	38480	43862	43992	4.25
+24	31179045	Cédula	Palmira-Valle	Constanza Leonor Núñez Mejía	Asistente	Seguridad Social y Salud	4495	38	Pregrado	38480	43862	43992	4.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Didáctica de la Educación Física y el Deporte	S325	48	Pregrado	34320	43862	44020	5.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Didáctica de la Educación Física y el Deporte	S325B	48	Pregrado	34320	43862	44020	5.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Bases metodológicas para el entrenamiento de la técnica y la táctica deportiva	S525	48	Pregrado	34320	43862	44020	5.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Bases metodológicas para el entrenamiento de la técnica y la táctica deportiva	S525B	48	Pregrado	34320	43862	44020	5.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Seminario de Introducción a las Ciencias del Deporte	S285	38	Pregrado	34320	43862	44020	5.25
+25	94477453	Cédula	Buga	Christiam Gallego Arias	Auxiliar	Currículo para la Educación Física 	S385	48	Pregrado	34320	43862	44020	5.25
+26	79909091	Cédula	Bogota D.C	David Ernesto Solano Jimenez	Auxiliar	Actividades de alto Riesgo	7490	48	Pregrado	34320	43862	43992	4.25
+26	79909091	Cédula	Bogota D.C	David Ernesto Solano Jimenez	Auxiliar	Actividades de alto Riesgo	7490B	48	Pregrado	34320	43862	43992	4.25
+26	79909091	Cédula	Bogota D.C	David Ernesto Solano Jimenez	Auxiliar	Actividades de alto Riesgo	7490C	48	Pregrado	34320	43862	43992	4.25
+26	79909091	Cédula	Bogota D.C	David Ernesto Solano Jimenez	Auxiliar	Coordinaciòn Semillero ATAR		48	Asesoría	23100	43862	43992	4.25
+27	67039923	Cédula	Cali-Valle	Diana Zuleima Gutiérrez García	Auxiliar	Auditoria en Salud II	9496	48	Pregrado	34320	43862	43992	4.25
+27	67039923	Cédula	Cali-Valle	Diana Zuleima Gutiérrez García	Auxiliar	Auditoria en Salud I	8495	48	Pregrado	34320	43862	43992	4.25
+28	6405753	Cédula	Cali-Valle	Diego Andrés Chate Melo	Auxiliar	Epidemiología Aplicada	5496	48	Pregrado	34320	43862	43992	4.25
+28	6405753	Cédula	Cali-Valle	Diego Andrés Chate Melo	Auxiliar	Fundamentos de Epidemiología	3495	48	Pregrado	34320	43862	43992	4.25
+28	6405753	Cédula	Cali-Valle	Diego Andrés Chate Melo	Auxiliar	Epidemiología Aplicada	5495	48	Pregrado	34320	43862	43992	4.25
+28	6405753	Cédula	Cali-Valle	Diego Andrés Chate Melo	Auxiliar	Seminario de Investigación	647	48	Pregrado	34320	43862	43992	4.25
+29	1061800125	Cédula	Popayan 	Diego Fernando Afanador Restrepo	Auxiliar	Fundamentos Biológicos	SB1722	48	Pregrado	34320	43862	44020	5.25
+29	1061800125	Cédula	Popayan 	Diego Fernando Afanador Restrepo	Auxiliar	Fundamentos Biológicos	SB125	48	Pregrado	34320	43862	44020	5.25
+29	1061800125	Cédula	Popayan 	Diego Fernando Afanador Restrepo	Auxiliar	Aprendizaje y Desarrollo motor	S225	38	Pregrado	34320	43862	44020	5.25
+29	1061800125	Cédula	Popayan 	Diego Fernando Afanador Restrepo	Auxiliar	Aprendizaje y Desarrollo motor	S225B	38	Pregrado	34320	43862	44020	5.25
+29	1061800125	Cédula	Popayan 	Diego Fernando Afanador Restrepo	Auxiliar	Anatomía Funcional	S2722	48	Pregrado	34320	43862	44020	5.25
+30	94301663	Cédula	Pradera- valle	Diego Fernando Bravo Solarte	Auxiliar	Bases metodológicas para el entrenamiento de las capacidades condicionales y coordinativas	S425	48	Pregrado	34320	43862	43992	4.25
+30	94301663	Cédula	Pradera- valle	Diego Fernando Bravo Solarte	Auxiliar	Bases metodológicas para el entrenamiento de las capacidades condicionales y coordinativas	S425B	48	Pregrado	34320	43862	43992	4.25
+30	94301663	Cédula	Pradera- valle	Diego Fernando Bravo Solarte	Auxiliar	Investigación Ciencias del Deporte y la Educación Física 	S625	48	Pregrado	34320	43862	43992	4.25
+30	94301663	Cédula	Pradera- valle	Diego Fernando Bravo Solarte	Auxiliar	Fundamentos del Entrenamiento Deportivo	S385	48	Pregrado	34320	43862	43992	4.25
+30	94301663	Cédula	Pradera- valle	Diego Fernando Bravo Solarte	Auxiliar	Investigación Ciencias del Deporte y la Educación Física 	S685B	48	Pregrado	34320	43862	43992	4.25
+31	94150641	Cédula	Tuluá-Valle	Diego Fernando Sierra Grajales	Auxiliar	Sistemas de gestión en Salud Ocupacional II	10490	48	Pregrado	34320	43862	43992	4.25
+31	94150641	Cédula	Tuluá-Valle	Diego Fernando Sierra Grajales	Auxiliar	Sistemas de gestión en Salud Ocupacional II	10490B	48	Pregrado	34320	43862	43992	4.25
+32	16785494	Cédula	Cali-Valle	Edwing Fernando Hurtado Lorza	Auxiliar	Presupuesto	S4490	48	Pregrado	34320	43862	44020	5.25
+32	16785494	Cédula	Cali-Valle	Edwing Fernando Hurtado Lorza	Auxiliar	Presupuesto	4490B	48	Pregrado	34320	43862	44020	5.25
+32	16785494	Cédula	Cali-Valle	Edwing Fernando Hurtado Lorza	Auxiliar	Electiva I (Sistemas de gestión de calidad ISO 9001)	S5491	38	Pregrado	34320	43862	44020	5.25
+32	16785494	Cédula	Cali-Valle	Edwing Fernando Hurtado Lorza	Auxiliar	Ciencia Tecnología y Desarrollo	SB1491	38	Pregrado	34320	43862	44020	5.25
+32	16785494	Cédula	Cali-Valle	Edwing Fernando Hurtado Lorza	Auxiliar	Presupuesto	4491	48	Pregrado	34320	43862	44020	5.25
+33	10355235	Cédula	Suarez -Cauca	Elcías Sánchez Orozco	Auxiliar	Valoración y análisis de la Condición Física	S625	48	Pregrado	34320	43862	43992	4.25
+33	10355235	Cédula	Suarez -Cauca	Elcías Sánchez Orozco	Auxiliar	Fisiología del Deporte	S485	48	Pregrado	34320	43862	43992	4.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Psicomotricidad	S325B	38	Pregrado	34320	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Práctica Pedagógica II	S425	58	Pregrado	34320	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Práctica Pedagógica II	S425B	58	Pregrado	34320	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Aprendizaje y Desarrollo Motor	S285	38	Pregrado	34320	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Virtualización Watherpolo		40	Asesoría	23100	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Psicomotricidad	S325	38	Pregrado	34320	43862	44020	5.25
+34	1130623014	Cédula	Cali- Valle	Eliana Tonanzín Cadavid Rodríguez	Auxiliar	Neuro Desarrollo Infantil	S494	48	Pregrado	34320	43862	44020	5.25
+35	66924057	Cédula	Cali- Valle	Elsa Maria Britto Perez	Auxiliar	Administración en Salud I	S2495B	48	Pregrado	34320	43862	43992	4.25
+35	66924057	Cédula	Cali- Valle	Elsa Maria Britto Perez	Auxiliar	Electiva Profesional IV: Planeación Estratégica en la Gestión de la Salud II	S4496	48	Pregrado	34320	43862	43992	4.25
+35	66924057	Cédula	Cali- Valle	Elsa Maria Britto Perez	Auxiliar	Administración en Salud II	S3496	48	Pregrado	34320	43862	43992	4.25
+35	66924057	Cédula	Cali- Valle	Elsa Maria Britto Perez	Auxiliar	Electiva Profesional I	S6495	48	Pregrado	34320	43862	43992	4.25
+35	66924057	Cédula	Cali- Valle	Elsa Maria Britto Perez	Auxiliar	Elctiva Profesional II	7495	48	Pregrado	34320	43862	43992	4.25
+36	94072579	Cédula	Cali-Valle	Fabián Armando García Trivaldo	Auxiliar	Lenguajes Expresivos I	595	48	Pregrado	34320	43862	43992	4.25
+36	94072579	Cédula	Cali-Valle	Fabián Armando García Trivaldo	Auxiliar	Lenguajes Expresivos II	695	48	Pregrado	34320	43862	43992	4.25
+36	94072579	Cédula	Cali-Valle	Fabián Armando García Trivaldo	Auxiliar	Lenguajes Expresivos I	S594	48	Pregrado	34320	43862	43992	4.25
+36	94072579	Cédula	Cali-Valle	Fabián Armando García Trivaldo	Auxiliar	Lenguajes Expresivos II	S694	48	Pregrado	34320	43862	43992	4.25
+36	94072579	Cédula	Cali-Valle	Fabián Armando García Trivaldo	Auxiliar	Lenguajes Expresivos I	520	48	Pregrado	34320	43862	43992	4.25
+37	16849986	Cédula	Cali-Valle	Fabian Felipe Fernandez Daza	Auxiliar	Ecología	S2490	38	Pregrado	34320	43862	43992	4.25
+37	16849986	Cédula	Cali-Valle	Fabian Felipe Fernandez Daza	Auxiliar	Ecología	S2491	38	Pregrado	34320	43862	43992	4.25
+37	16849986	Cédula	Cali-Valle	Fabian Felipe Fernandez Daza	Auxiliar	Ecología	S2491B	38	Pregrado	34320	43862	43992	4.25
+38	67002157	Cédula	Cali-Valle	Fanny Clemencia Montenegro Maya	Auxiliar	Legislación en Salud Ocupacional II	S5490	38	Pregrado	34320	43862	43992	4.25
+38	67002157	Cédula	Cali-Valle	Fanny Clemencia Montenegro Maya	Auxiliar	Legislación en Salud Ocupacional I	4490B	38	Pregrado	34320	43862	43992	4.25
+38	67002157	Cédula	Cali-Valle	Fanny Clemencia Montenegro Maya	Auxiliar	Legislación en Salud Ocupacional II	S5491	38	Pregrado	34320	43862	43992	4.25
+39	66926938	Cédula	Cali-Valle	Genith Molina Almeida	Auxiliar	Corrientes Pedagógicas II	395	48	Pregrado	34320	43862	43992	4.25
+39	66926938	Cédula	Cali-Valle	Genith Molina Almeida	Auxiliar	Corrientes Pedagógicas II	S394	48	Pregrado	34320	43862	43992	4.25
+40	94509470	Cédula	Cali-Valle	Gerardo Figueroa Garcia	Auxiliar	Métodos de identificación y evaluación de riesgos 	4490	48	Pregrado	34320	43864	43992	4.25
+40	94509470	Cédula	Cali-Valle	Gerardo Figueroa Garcia	Auxiliar	Investigación de Accidentes de trabajo y enfermedades profesionales, Analisis estadistico, modelo de causalidad	7490B	48	Pregrado	34320	43864	43992	4.25
+40	94509470	Cédula	Cali-Valle	Gerardo Figueroa Garcia	Auxiliar	Sistemas de gestión en Salud Ocupacional II	10491	48	Pregrado	34320	43864	43992	4.25
+41	16776225	Cédula	Cali-Valle	German Enrique Gutierrez Manzano	Auxiliar	Electiva III ( Sistema de Gestión de Salud Ocupacional y Seguridad Indsutrial OHSAS 18001)	7490	48	Pregrado	34320	43862	43992	4.25
+41	16776225	Cédula	Cali-Valle	German Enrique Gutierrez Manzano	Auxiliar	Electiva I (sistemas de gestión de calidad ISO9001)	S5491	38	Pregrado	34320	43862	43992	4.25
+41	16776225	Cédula	Cali-Valle	German Enrique Gutierrez Manzano	Auxiliar	Sistemas de gestión en Salud Ocupacional II	S10491	48	Pregrado	34320	43862	43992	4.25
+42	16645625	Cédula	Cali- Valle	Gilbert Caviedes Quintero	Auxiliar	Currículo de la Educación Física	S325B	48	Pregrado	34320	43862	43992	4.25
+42	16645625	Cédula	Cali- Valle	Gilbert Caviedes Quintero	Auxiliar	Currículo de la Educación Física	S385B	48	Pregrado	34320	43862	43992	4.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Seminario Investigativo I	S725	48	Pregrado	34320	43862	44020	5.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Fisiología del Deporte	S425	48	Pregrado	34320	43862	44020	5.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Fisiología del Deporte	S425B	48	Pregrado	34320	43862	44020	5.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Valoración y análisis de la Condición Física 	S685	48	Pregrado	34320	43862	44020	5.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Valoración y análisis de la Condición Física 	S625	48	Pregrado	34320	43862	44020	5.25
+43	1130666005	Cédula	Cali-Valle	Gloria Cecilia Vega Avila	Auxiliar	Seminario de Introducción a las Ciencias del Deporte	S2722	38	Pregrado	34320	43862	44020	5.25
+44	1130624675	Cédula	Cali-Valle	Gloria García González	Auxiliar	Seminario de introducción a la Educación física	SB185	38	Pregrado	34320	43862	44020	5.25
+44	1130624675	Cédula	Cali-Valle	Gloria García González	Auxiliar	Práctica Pedagógica V          	S725	58	Pregrado	34320	43862	44020	5.25
+44	1130624675	Cédula	Cali-Valle	Gloria García González	Auxiliar	Práctica pedagógica I	S385	58	Pregrado	34320	43862	44020	5.25
+44	1130624675	Cédula	Cali-Valle	Gloria García González	Auxiliar	Deporte e inclusión Social	S625	48	Pregrado	34320	43862	44020	5.25
+44	1130624675	Cédula	Cali-Valle	Gloria García González	Auxiliar	Deporte e inclusión Social	S685	48	Pregrado	34320	43862	44020	5.25
+45	16794274	Cédula	Cali-Valle	Guillermo Enrique Buitrago Hurtado	Auxiliar	Dibujo Técnico e Interpretación Grafica	S2490	48	Pregrado	34320	43864	43992	4.25
+45	16794274	Cédula	Cali-Valle	Guillermo Enrique Buitrago Hurtado	Auxiliar	Dibujo Técnico e Interpretación Grafica	S2491	48	Pregrado	34320	43864	43992	4.25
+45	16794274	Cédula	Cali-Valle	Guillermo Enrique Buitrago Hurtado	Auxiliar	Dibujo Técnico e Interpretación Grafica	S2491B	48	Pregrado	34320	43864	43992	4.25
+45	16794274	Cédula	Cali-Valle	Guillermo Enrique Buitrago Hurtado	Auxiliar	Dibujo Técnico e Interpretación Grafica	2491	48	Pregrado	34320	43864	43992	4.25
+45	16794274	Cédula	Cali-Valle	Guillermo Enrique Buitrago Hurtado	Auxiliar	Dibujo Técnico e Interpretación Grafica	2491B	48	Pregrado	34320	43864	43992	4.25
+46	16773844	Cédula	Cali-Valle	Gustavo Adolfo Ortiz Pazos	Auxiliar	Humanidades	SB195	38	Pregrado	34320	43862	44020	5.25
+46	16773844	Cédula	Cali-Valle	Gustavo Adolfo Ortiz Pazos	Auxiliar	Socio-Antropologia	S2491B	38	Pregrado	34320	43862	44020	5.25
+46	16773844	Cédula	Cali-Valle	Gustavo Adolfo Ortiz Pazos	Auxiliar	Didáctica de las Ciencias Sociales y Naturales	S694	48	Pregrado	34320	43862	44020	5.25
+46	16773844	Cédula	Cali-Valle	Gustavo Adolfo Ortiz Pazos	Auxiliar	Socioantropología	SB1722	38	Pregrado	34320	43862	44020	5.25
+46	16773844	Cédula	Cali-Valle	Gustavo Adolfo Ortiz Pazos	Auxiliar	Epistemología	S6495	48	Pregrado	34320	43862	44020	5.25
+47	94517814	Cédula	Cali-Valle	Héctor Andrés Rojas Guevara	Auxiliar	Fundamentos del Entrenamiento Deportivo	S3722	48	Pregrado	34320	43862	43992	4.25
+47	94517814	Cédula	Cali-Valle	Héctor Andrés Rojas Guevara	Auxiliar	Bases metodológicas para el entrenamiento de las capacidades condicionales y coordinativas	S485	48	Pregrado	34320	43862	43992	4.25
+47	94517814	Cédula	Cali-Valle	Héctor Andrés Rojas Guevara	Auxiliar	Bases metodológicas para el entrenamiento de la técnica y la táctica deportiva	S585	48	Pregrado	34320	43862	43992	4.25
+47	94517814	Cédula	Cali-Valle	Héctor Andrés Rojas Guevara	Auxiliar	Práctica Pedagógica IV	S685	58	Pregrado	34320	43862	43992	4.25
+48	94509572	Cédula	Cali-Valle	Héctor Fabio Espinosa Velásquez	Auxiliar	Costos en Salud	4495	48	Pregrado	34320	43862	43992	4.25
+48	94509572	Cédula	Cali-Valle	Héctor Fabio Espinosa Velásquez	Auxiliar	Facturación en Salud	6495	48	Pregrado	34320	43862	43992	4.25
+48	94509572	Cédula	Cali-Valle	Héctor Fabio Espinosa Velásquez	Auxiliar	Costos en Salud	S4496	48	Pregrado	34320	43862	43992	4.25
+49	94460588	Cédula	Cali- Valle	Hector Fabio Jara Carvajal	Auxiliar	Riesgos de las condiciones de seguridad - eléctrico y mecánico 	S5491	38	Pregrado	34320	43862	43992	4.25
+49	94460588	Cédula	Cali- Valle	Hector Fabio Jara Carvajal	Auxiliar	Procesos Industriales y de Servicios	4492	38	Pregrado	34320	43862	43992	4.25
+49	94460588	Cédula	Cali- Valle	Hector Fabio Jara Carvajal	Auxiliar	Riesgos de las condiciones de seguridad - Tecnológico	8490	48	Pregrado	34320	43862	43992	4.25
+49	94460588	Cédula	Cali- Valle	Hector Fabio Jara Carvajal	Auxiliar	Riesgos de las condiciones de seguridad - eléctrico y mecánico 	S5490	38	Pregrado	34320	43862	43992	4.25
+49	94460588	Cédula	Cali- Valle	Hector Fabio Jara Carvajal	Auxiliar	Práctica Profesional 	10491	48	Pregrado	34320	43862	43992	4.25
+50	1006315893	Cédula	Cartago-Valle	Henry Alonso Ocampo Marin	Auxiliar	Seguridad Social y Salud	S4496	38	Pregrado	34320	43862	43992	4.25
+50	1006315893	Cédula	Cartago-Valle	Henry Alonso Ocampo Marin	Auxiliar	Seguridad Social y Salud	S4495	38	Pregrado	34320	43862	43992	4.25
+50	1006315893	Cédula	Cartago-Valle	Henry Alonso Ocampo Marin	Auxiliar	Administración en Salud I	2495B	48	Pregrado	34320	43862	43992	4.25
+51	66854465	Cédula	Cali-Valle	Ilka Adriana Rodriguez Rivera	Auxiliar	Socio-Antropologia	S2490	38	Pregrado	34320	43862	43992	4.25
+51	66854465	Cédula	Cali-Valle	Ilka Adriana Rodriguez Rivera	Auxiliar	Práctica Pedagógica VIII	S894	58	Pregrado	34320	43862	43992	4.25
+51	66854465	Cédula	Cali-Valle	Ilka Adriana Rodriguez Rivera	Auxiliar	Práctica Pedagógica X	S1094	58	Pregrado	34320	43862	43992	4.25
+51	66854465	Cédula	Cali-Valle	Ilka Adriana Rodriguez Rivera	Auxiliar	Práctica Pedagógica X	1020	58	Pregrado	34320	43862	43992	4.25
+51	66854465	Cédula	Cali-Valle	Ilka Adriana Rodriguez Rivera	Auxiliar	Práctica Pedagógica VIII	895	58	Pregrado	34320	43862	43992	4.25
+52	29363575	Cédula	Cali- Valle	Ilse Gissela Gallego Mendoza	Auxiliar	Ergonomía II	8490	48	Pregrado	34320	43862	43992	4.25
+52	29363575	Cédula	Cali- Valle	Ilse Gissela Gallego Mendoza	Auxiliar	Ergonomía I	S7491	48	Pregrado	34320	43862	44020	5.25
+53	67045288	Cédula	Cali-Valle	Jackeline Grisales Aristizabal	Auxiliar	Introducción a la Salud Pública	B1493	48	Pregrado	34320	43862	44020	5.25
+53	67045288	Cédula	Cali-Valle	Jackeline Grisales Aristizabal	Auxiliar	Auditoria en salud I	8496	48	Pregrado	34320	43862	44020	5.25
+53	67045288	Cédula	Cali-Valle	Jackeline Grisales Aristizabal	Auxiliar	Auditoria en salud II	S9495	48	Pregrado	34320	43862	44020	5.25
+54	94458874	Cédula	Cali-Valle	Jackson Palacios Lozano	Auxiliar	Ética Profesional	S5490	48	Pregrado	34320	43862	43992	4.25
+54	94458874	Cédula	Cali-Valle	Jackson Palacios Lozano	Auxiliar	Ética Profesional	S5491	48	Pregrado	34320	43862	43992	4.25
+55	94517155	Cédula	Cali- Valle	Jaime Alberto Hernández Jimenez	Auxiliar	Análisis resultados de muestreo ambiental	9491	48	Pregrado	34320	43862	43992	4.25
+55	94517155	Cédula	Cali- Valle	Jaime Alberto Hernández Jimenez	Auxiliar	Análisis resultados de muestreo ambiental	9490B	48	Pregrado	34320	43862	43992	4.25
+56	94453954	Cédula	Cali- Valle	Jairo Antonio Rodríguez Orejuela	Auxiliar	Fundamentos de Mercadeo	7495	48	Pregrado	34320	43862	43992	4.25
+56	94453954	Cédula	Cali- Valle	Jairo Antonio Rodríguez Orejuela	Auxiliar	Fundamentos de Mercadeo	S7495	48	Pregrado	34320	43862	43992	4.25
+57	94378690	Cédula	Cali-Valle	Jairo Linar Flor Suarez	Auxiliar	Constitución Política y Fundamentos del Sistema de Seguridad Social 	S3490	48	Pregrado	34320	43862	43992	4.25
+57	94378690	Cédula	Cali-Valle	Jairo Linar Flor Suarez	Auxiliar	Constitución Política y Fundamentos del Sistema de Seguridad Social 	3491	48	Pregrado	34320	43862	43992	4.25
+57	94378690	Cédula	Cali-Valle	Jairo Linar Flor Suarez	Auxiliar	Constitución Política y Fundamentos del Sistema de Seguridad Social 	3490	48	Pregrado	34320	43862	43992	4.25
+57	94378690	Cédula	Cali-Valle	Jairo Linar Flor Suarez	Auxiliar	Constitución Política y Fundamentos del Sistema de Seguridad Social 	S3491	48	Pregrado	34320	43862	43992	4.25
+58	16693879	Cédula	Cali-Valle	Jairo Urrutia Rodriguez	Auxiliar	Química I	B1492	48	Pregrado	34320	43862	44020	5.25
+58	16693879	Cédula	Cali-Valle	Jairo Urrutia Rodriguez	Auxiliar	Química II	2492	48	Pregrado	34320	43862	44020	5.25
+58	16693879	Cédula	Cali-Valle	Jairo Urrutia Rodriguez	Auxiliar	Química II	2490B	48	Pregrado	34320	43862	44020	5.25
+59	1130653071	Cédula	Cali-Valle	Jenifer Ramos Ríos	Auxiliar	Métodos de Optimización Aplicados a la Salud	5495	48	Pregrado	34320	43862	43992	4.25
+59	1130653071	Cédula	Cali-Valle	Jenifer Ramos Ríos	Auxiliar	Evaluación y Gestión de Proyectos de Salud	7495	48	Pregrado	34320	43862	43992	4.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Administración en Salud I	2496	48	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Administración en Salud I	2495	48	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Administración en Salud I	2494	48	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Ciencia Tecnología y Desarrollo	B1493	38	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Desarrollo empresarial 	794	38	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Desarrollo empresarial 	795	38	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Iniciativa empresarial	2490	38	Pregrado	34320	43862	44020	5.25
+60	1118284773	Cédula	Cali-Valle	Jennifer Beltrán Camayo	Auxiliar	Desarrollo empresarial 	720	38	Pregrado	34320	43862	44020	5.25
+61	31569490	Cédula	Cali-Valle	Jenny Patricia Tafur Chara	Auxiliar	Didáctica de la Lectura y la Escritura	420	48	Pregrado	34320	43862	43992	4.25
+61	31569490	Cédula	Cali-Valle	Jenny Patricia Tafur Chara	Auxiliar	Práctica Pedagógica VII         	720	58	Pregrado	34320	43862	43992	4.25
+62	16890326	Cédula	Florida-Valle	Jesus Eduardo Yela Caicedo	Auxiliar	Investigación de Accidentes de trabajo y enfermedades profesionales, Analisis estadistico, modelo de causalidad	7490	48	Pregrado	34320	43862	43992	4.25
+62	16890326	Cédula	Florida-Valle	Jesus Eduardo Yela Caicedo	Auxiliar	Investigación de Accidentes de trabajo y enfermedades profesionales, Analisis estadistico, modelo de causalidad	7490C	48	Pregrado	34320	43862	43992	4.25
+62	16890326	Cédula	Florida-Valle	Jesus Eduardo Yela Caicedo	Auxiliar	Investigación de Accidentes de trabajo y enfermedades profesionales, Analisis estadistico, modelo de causalidad	S7491	48	Pregrado	34320	43862	43992	4.25
+63	1061695947	Cédula	Popayan 	Jhon Eder Castillo Espinosa	Auxiliar	Plan de emergencias y manejo crisis	8491	48	Pregrado	34320	43862	43992	4.25
+63	1061695947	Cédula	Popayan 	Jhon Eder Castillo Espinosa	Auxiliar	Plan de emergencias y manejo crisis	S8491	48	Pregrado	34320	43862	43992	4.25
+63	1061695947	Cédula	Popayan 	Jhon Eder Castillo Espinosa	Auxiliar	Plan de emergencias y manejo crisis	8490	48	Pregrado	34320	43862	43992	4.25
+63	1061695947	Cédula	Popayan 	Jhon Eder Castillo Espinosa	Auxiliar	Plan de emergencias y manejo crisis	8490B	48	Pregrado	34320	43862	43992	4.25
+64	1130587484	Cédula	Cali-Valle	Johan Aydee Martínez Ipuz	Auxiliar	Atención Educativa a la Diversidad	S425	48	Pregrado	34320	43862	43992	4.25
+64	1130587484	Cédula	Cali-Valle	Johan Aydee Martínez Ipuz	Auxiliar	Electiva III: Inclusión y Educación III	S1094	38	Pregrado	34320	43862	43992	4.25
+64	1130587484	Cédula	Cali-Valle	Johan Aydee Martínez Ipuz	Auxiliar	Electiva I: Inclusión y Educación I	820	38	Pregrado	34320	43862	43992	4.25
+64	1130587484	Cédula	Cali-Valle	Johan Aydee Martínez Ipuz	Auxiliar	Neuro Desarrollo Infantil	420	48	Pregrado	34320	43862	43992	4.25
+65	1085244033	Cédula	Pasto-Nariño	Johan James Romo González	Auxiliar	Seminario de Introducción a las Ciencias del Deporte	S225	38	Pregrado	34320	43872	44020	5.25
+65	1085244033	Cédula	Pasto-Nariño	Johan James Romo González	Auxiliar	Seminario de introducción a la Educación física	SB125	38	Pregrado	34320	43872	44020	5.25
+65	1085244033	Cédula	Pasto-Nariño	Johan James Romo González	Auxiliar	Seminario de introducción a la Educación física	SB1722	38	Pregrado	34320	43872	44020	5.25
+66	76350645	Cédula	Cajibio-Cauca	Johao Obdulio Valencia Gutierrez	Auxiliar	Didáctica de la Educación Física y el Deporte	S385	48	Pregrado	34320	43862	43992	4.25
+66	76350645	Cédula	Cajibio-Cauca	Johao Obdulio Valencia Gutierrez	Auxiliar	Didáctica de la Educación Física y el Deporte	S385B	48	Pregrado	34320	43862	43992	4.25
+66	76350645	Cédula	Cajibio-Cauca	Johao Obdulio Valencia Gutierrez	Auxiliar	Didáctica de la Educación Física y el Deporte	S794	48	Pregrado	34320	43862	43992	4.25
+66	76350645	Cédula	Cajibio-Cauca	Johao Obdulio Valencia Gutierrez	Auxiliar	Corrientes Pedagógicas de la Educación Física	S2722	48	Pregrado	34320	43862	43992	4.25
+66	76350645	Cédula	Cajibio-Cauca	Johao Obdulio Valencia Gutierrez	Auxiliar	Corrientes Pedagógicas de la Educación Física	S285B	48	Pregrado	34320	43862	43992	4.25
+67	16706003	Cédula	Cali-Valle	John Vanegas Lujan	Auxiliar	Legislación Empresarial y Laboral	3495B	38	Pregrado	34320	43862	43992	4.25
+67	16706003	Cédula	Cali-Valle	John Vanegas Lujan	Auxiliar	Constitución Política e Instituciones	2496	38	Pregrado	34320	43862	43992	4.25
+67	16706003	Cédula	Cali-Valle	John Vanegas Lujan	Auxiliar	Legislación Empresarial y Laboral	S3495	38	Pregrado	34320	43862	43992	4.25
+67	16706003	Cédula	Cali-Valle	John Vanegas Lujan	Auxiliar	Constitución Política e Instituciones	2494	38	Pregrado	34320	43862	43992	4.25
+68	94491415	Cédula	Cali-Valle	Jorge Perdomo Aguirre	Auxiliar	Electiva II ( Sistema de Gestión Ambiental ISO 14001 y Desarrollo Sustentable)	S6491	48	Pregrado	34320	43862	43992	4.25
+68	94491415	Cédula	Cali-Valle	Jorge Perdomo Aguirre	Auxiliar	Electiva IV (Formación en Prestación de Servicios de Asesoría)	S10491	48	Pregrado	34320	43862	43992	4.25
+69	16861758	Cédula	Cerrito-Valle	Jose Gregorio Castrillon Perez	Auxiliar	Riesgo en la agroindustria	9490	38	Pregrado	34320	43862	43992	4.25
+69	16861758	Cédula	Cerrito-Valle	Jose Gregorio Castrillon Perez	Auxiliar	Riesgo en la agroindustria	9490B	38	Pregrado	34320	43862	43992	4.25
+69	16861758	Cédula	Cerrito-Valle	Jose Gregorio Castrillon Perez	Auxiliar	Riesgo en la agroindustria	9491	38	Pregrado	34320	43862	43992	4.25
+70	14839118	Cédula	Cali-Valle	Jose Henry Vidal Herrera	Auxiliar	Facturación en Salud	S6495	48	Pregrado	34320	43862	43992	4.25
+70	14839118	Cédula	Cali-Valle	Jose Henry Vidal Herrera	Auxiliar	Electiva Profesional V: Marketing en los Servicios de Salud I	9495	48	Pregrado	34320	43862	43992	4.25
+70	14839118	Cédula	Cali-Valle	Jose Henry Vidal Herrera	Auxiliar	Costos en Salud	4496	48	Pregrado	34320	43862	43992	4.25
+70	14839118	Cédula	Cali-Valle	Jose Henry Vidal Herrera	Auxiliar	Electiva Profesional I	6495	48	Pregrado	34320	43862	43992	4.25
+71	14605457	Cédula	Cali-Valle	Jose Alberto Velandia Valencia	Auxiliar	Higiene I (Valores Limites permisibles)	5490B	38	Pregrado	34320	43862	43992	4.25
+71	14605457	Cédula	Cali-Valle	Jose Alberto Velandia Valencia	Auxiliar	Higiene III (Riesgos Físicos (Ruido, Iluminación  y Vibración)	7490B	38	Pregrado	34320	43862	43992	4.25
+71	14605457	Cédula	Cali-Valle	Jose Alberto Velandia Valencia	Auxiliar	Higiene I (Valores Limites permisibles)	S5491	38	Pregrado	34320	43862	43992	4.25
+71	14605457	Cédula	Cali-Valle	Jose Alberto Velandia Valencia	Auxiliar	Análisis resultados de muestreo ambiental	S9491	48	Pregrado	34320	43862	43992	4.25
+72	6391758	Cédula	Palmira- Valle	Juan Jose Carvajal Sanchez	Auxiliar	Psicología del Trabajo	7490	38	Pregrado	34320	43862	43992	4.25
+72	6391758	Cédula	Palmira- Valle	Juan Jose Carvajal Sanchez	Auxiliar	Psicología del Trabajo	7490B	38	Pregrado	34320	43862	43992	4.25
+72	6391758	Cédula	Palmira- Valle	Juan Jose Carvajal Sanchez	Auxiliar	Ética Profesional	5491	48	Pregrado	34320	43862	43992	4.25
+72	6391758	Cédula	Palmira- Valle	Juan Jose Carvajal Sanchez	Auxiliar	Psicología del Trabajo	7491	38	Pregrado	34320	43862	43992	4.25
+73	53141209	Cédula	Bogota D.c	Juanita Alejandra Buenaventura Mancera	Auxiliar	Higiene I (Valores Limites permisibles)	S5490	38	Pregrado	34320	43862	43992	4.25
+73	53141209	Cédula	Bogota D.c	Juanita Alejandra Buenaventura Mancera	Auxiliar	Higiene II (Riesgo Químico)	S6490	38	Pregrado	34320	43862	43992	4.25
+73	53141209	Cédula	Bogota D.c	Juanita Alejandra Buenaventura Mancera	Auxiliar	Higiene II (Riesgo Químico)	S6491	38	Pregrado	34320	43862	43992	4.25
+73	53141209	Cédula	Bogota D.c	Juanita Alejandra Buenaventura Mancera	Auxiliar	Higiene III (Riesgos Físicos (Ruido, Iluminación  y Vibración)	S7491	38	Pregrado	34320	43862	43992	4.25
+73	53141209	Cédula	Bogota D.c	Juanita Alejandra Buenaventura Mancera	Auxiliar	"Higiene IV (Riesgos Físicos (Radiación y campos electromagnéticos; Temperaturas extremas)"	S8491	38	Pregrado	34320	43862	43992	4.25
+74	1107047142	Cédula	Tuluá-Valle	Julieth Mejía Giraldo	Auxiliar	Corrientes Pedagógicas I	295	48	Pregrado	34320	43862	43992	4.25
+74	1107047142	Cédula	Tuluá-Valle	Julieth Mejía Giraldo	Auxiliar	Protección y Bienestar Infantil	920	48	Pregrado	34320	43862	43992	4.25
+75	16840366	Cédula	Cali-Valle	Julian Andres Escobar Delgado	Auxiliar	Anatomia y Fisiologia	3490	48	Pregrado	34320	43862	43992	4.25
+75	16840366	Cédula	Cali-Valle	Julian Andres Escobar Delgado	Auxiliar	Anatomia y Fisiologia	3490B	48	Pregrado	34320	43862	43992	4.25
+76	31583127	Cédula	Cali-Valle	Juliana Montes Rivera	Auxiliar	Epidemiología Laboral	8491	48	Pregrado	34320	43862	43992	4.25
+76	31583127	Cédula	Cali-Valle	Juliana Montes Rivera	Auxiliar	Epidemiología Laboral	8490B	48	Pregrado	34320	43862	43992	4.25
+77	1130619596	Cédula	Cali-Valle	Yulieth Rivas Campo	Auxiliar	Fisiología General	S325B	48	Pregrado	34320	43862	44020	5.25
+77	1130619596	Cédula	Cali-Valle	Yulieth Rivas Campo	Auxiliar	Biomecánica del deporte	S525	48	Pregrado	34320	43862	44020	5.25
+77	1130619596	Cédula	Cali-Valle	Yulieth Rivas Campo	Auxiliar	Biomecánica del deporte	S525B	48	Pregrado	34320	43862	44020	5.25
+77	1130619596	Cédula	Cali-Valle	Yulieth Rivas Campo	Auxiliar	Fundamentos Biológicos	SB185	48	Pregrado	34320	43862	44020	5.25
+77	1130619596	Cédula	Cali-Valle	Yulieth Rivas Campo	Auxiliar	Biomecánica del deporte	S585	48	Pregrado	34320	43862	44020	5.25
+78	1144160809	Cédula	Cali- Valle	Julio Cesar Ángulo Caicedo	Auxiliar	Administración en Salud II	3495	48	Pregrado	34320	43862	43992	4.25
+78	1144160809	Cédula	Cali- Valle	Julio Cesar Ángulo Caicedo	Auxiliar	Administración en Salud II	3495B	48	Pregrado	34320	43862	43992	4.25
+78	1144160809	Cédula	Cali- Valle	Julio Cesar Ángulo Caicedo	Auxiliar	Electiva Profesional III	8495	48	Pregrado	34320	43862	43992	4.25
+79	31893266	Cédula	Cali-Valle	Justina Caicedo Salcedo	Auxiliar	Didáctica General	295	48	Pregrado	34320	43862	44020	5.25
+79	31893266	Cédula	Cali-Valle	Justina Caicedo Salcedo	Auxiliar	Protección y Bienestar Infantil	S994	48	Pregrado	34320	43862	44020	5.25
+79	31893266	Cédula	Cali-Valle	Justina Caicedo Salcedo	Auxiliar	Investigación y Educación	520	48	Pregrado	34320	43862	44020	5.25
+79	31893266	Cédula	Cali-Valle	Justina Caicedo Salcedo	Auxiliar	Fundamentos de la pedagogía	SB1722	48	Pregrado	34320	43862	44020	5.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Iniciativa Empresarial	S2491B	38	Pregrado	34320	43862	43992	4.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Electiva Profesional V: Marketing en los Servicios de Salud I	S9495	48	Pregrado	34320	43862	43992	4.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Electiva Profesional VI: Marketing en los Servicios de Salud II	S10495	48	Pregrado	34320	43862	43992	4.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Electiva Profesional V: Marketing en los Servicios de Salud I	9496	48	Pregrado	34320	43862	43992	4.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Electiva Profesional VI: Marketing en los Servicios de Salud I	10496	48	Pregrado	34320	43862	43992	4.25
+80	27601299	Cédula	Cucuta	Karla Viviana Andrade Diaz	Auxiliar	Apoyo al Comité PLE		48	Asesoría	23100	43862	43992	4.25
+81	38559445	Cédula	Cali- Valle	Karol Tatiana Cardona Hoyos	Auxiliar	Juego lúdica y creatividad	S485	38	Pregrado	34320	43862	43992	4.25
+81	38559445	Cédula	Cali- Valle	Karol Tatiana Cardona Hoyos	Auxiliar	Didactica de la Salud Ocupacional	6491	38	Pregrado	34320	43862	43992	4.25
+81	38559445	Cédula	Cali- Valle	Karol Tatiana Cardona Hoyos	Auxiliar	Didactica de la Salud Ocupacional	S6491	38	Pregrado	34320	43862	43992	4.25
+82	31320533	Cédula	Cali- Valle	Katherine Barona Cardenas	Auxiliar	Fundamentos de la pedagogía	SB125B	48	Pregrado	34320	43862	44020	5.25
+82	31320533	Cédula	Cali- Valle	Katherine Barona Cardenas	Auxiliar	Práctica Pedagógica II	295	48	Pregrado	34320	43862	44020	5.25
+82	31320533	Cédula	Cali- Valle	Katherine Barona Cardenas	Auxiliar	Práctica Pedagógica II	S224	48	Pregrado	34320	43862	44020	5.25
+83	31320135	Cédula	Cali- Valle	Kelly Yulieth Posso Moreno	Auxiliar	Ética Profesional	5490	48	Pregrado	34320	43862	43992	4.25
+83	31320135	Cédula	Cali- Valle	Kelly Yulieth Posso Moreno	Auxiliar	Ética Profesional	5490B	48	Pregrado	34320	43862	43992	4.25
+83	31320135	Cédula	Cali- Valle	Kelly Yulieth Posso Moreno	Auxiliar	Axiología del Educador	895	38	Pregrado	34320	43862	43992	4.25
+83	31320135	Cédula	Cali- Valle	Kelly Yulieth Posso Moreno	Auxiliar	Electiva II: Gerencia estratégica II	995	38	Pregrado	34320	43862	43992	4.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Salud y Medio Ambiente	S2496	48	Pregrado	34320	43862	44020	5.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Salud y Medio Ambiente	S2495B	48	Pregrado	34320	43862	44020	5.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Química I	B1490	48	Pregrado	34320	43862	44020	5.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Química I	B1491	48	Pregrado	34320	43862	44020	5.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Química	270	48	Pregrado	34320	43862	44020	5.25
+84	16765598	Cédula	Cali-Valle	Leider Torres Martínez	Auxiliar	Responsabilidad Social y ética profesional	770/1221	48	Pregrado	34320	43862	44020	5.25
+85	1143834700	Cédula	Cali-Valle	Leidy Viviana Soto Arango	Auxiliar	Metodos de identificación y evaluación de riesgos	S4490	48	Pregrado	34320	43865	43992	4.25
+85	1143834700	Cédula	Cali-Valle	Leidy Viviana Soto Arango	Auxiliar	Electiva IV (Fundamentos de Auditoria en Sistemas de Gestión Integral)	10490B	48	Pregrado	34320	43865	43992	4.25
+85	1143834700	Cédula	Cali-Valle	Leidy Viviana Soto Arango	Auxiliar	Electiva II ( Sistema de Gestión Ambiental ISO 14001 y Desarrollo Sustentable)	S6490	48	Pregrado	34320	43865	43992	4.25
+86	16754660	Cédula	Cali-Valle	Libardo Giraldo Calderon	Auxiliar	Quimica II	2490	48	Pregrado	34320	43862	43992	4.25
+86	16754660	Cédula	Cali-Valle	Libardo Giraldo Calderon	Auxiliar	Bioquimica	S3491	48	Pregrado	34320	43862	43992	4.25
+86	16754660	Cédula	Cali-Valle	Libardo Giraldo Calderon	Auxiliar	Bioquimica	3492	48	Pregrado	34320	43862	43992	4.25
+87	66847029	Cédula	Cali-Valle	Lisep Castillo Mejía	Auxiliar	Didáctica General	S2722	48	Pregrado	34320	43862	43992	4.25
+87	66847029	Cédula	Cali-Valle	Lisep Castillo Mejía	Auxiliar	Didáctica de la Literatura Infantil	320	48	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Psicología del Deporte	S425	48	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Psicología del Deporte	S425B	48	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Psicología del Deporte	S485	48	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Ética	7496	38	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Psicología del Trabajo	S7491	38	Pregrado	34320	43862	43992	4.25
+88	38560545	Cédula	Cali- Valle	Lina Marcela Rojas Reina	Auxiliar	Psicología del Trabajo	7490C	38	Pregrado	34320	43862	43992	4.25
+89	31712693	Cédula	Cali-Valle	Lina María Calderón Muñoz	Auxiliar	Indicadores Hospitalarios	4496	48	Pregrado	34320	43862	43992	4.25
+89	31712693	Cédula	Cali-Valle	Lina María Calderón Muñoz	Auxiliar	Indicadores Hospitalarios	4495	48	Pregrado	34320	43862	43992	4.25
+89	31712693	Cédula	Cali-Valle	Lina María Calderón Muñoz	Auxiliar	Auditoria en Salud II	9495	48	Pregrado	34320	43862	43992	4.25
+90	38601913	Cédula	Cali- Valle	Lorena Uribe Rodriguez	Auxiliar	Metodología y Presentación de Proyectos de Investigación	995	48	Pregrado	34320	43862	43992	4.25
+90	38601913	Cédula	Cali- Valle	Lorena Uribe Rodriguez	Auxiliar	Seminario Investigativo I	S694	48	Pregrado	34320	43862	43992	4.25
+91	6550367	Cédula	Yumbo-Valle	Luis Alberto Correa Espinosa	Auxiliar	Sistema de gestión en Salud Ocupacional I	S9491	48	Pregrado	34320	43862	43992	4.25
+91	6550367	Cédula	Yumbo-Valle	Luis Alberto Correa Espinosa	Auxiliar	Ciencia Tecnología y Desarrollo	B1490	38	Pregrado	34320	43862	43992	4.25
+91	6550367	Cédula	Yumbo-Valle	Luis Alberto Correa Espinosa	Auxiliar	Práctica formativa	S10491	48	Pregrado	34320	43862	43992	4.25
+91	6550367	Cédula	Yumbo-Valle	Luis Alberto Correa Espinosa	Auxiliar	Práctica formativa	9491	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas deportivas individuales I Gimnasia)	S525	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas deportivas individuales I Gimnasia)	S525B	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas de Oposición I (Artes marciales)	S625	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas deportivas individuales I (Gimnasia)	S585	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas de Oposición I (Artes marciales)	S685	48	Pregrado	34320	43862	43992	4.25
+92	1143864702	Cédula	Cali-Valle	Luis David Gallego Mora	Auxiliar	Disciplinas de Oposición I (Artes marciales)	S685B	48	Pregrado	34320	43862	43992	4.25
+93	1113630741	Cédula	Palmira	Luis Felipe Ospina Villalobos	Auxiliar	Salud Publica y Saneamiento Ambiental	9491	38	Pregrado	34320	43862	43992	4.25
+93	1113630741	Cédula	Palmira	Luis Felipe Ospina Villalobos	Auxiliar	Ecología	2492B	38	Pregrado	34320	43862	43992	4.25
+93	1113630741	Cédula	Palmira	Luis Felipe Ospina Villalobos	Auxiliar	Ecología	2491	38	Pregrado	34320	43862	43992	4.25
+93	1113630741	Cédula	Palmira	Luis Felipe Ospina Villalobos	Auxiliar	Ecología	2491B	38	Pregrado	34320	43862	43992	4.25
+93	1113630741	Cédula	Palmira	Luis Felipe Ospina Villalobos	Auxiliar	Ecología	2492	38	Pregrado	34320	43862	43992	4.25
+94	94409143	Cédula	Cali-Valle	Luis Fernando López	Auxiliar	Seminario Investigativo II	795	48	Pregrado	34320	43862	43992	4.25
+94	94409143	Cédula	Cali-Valle	Luis Fernando López	Auxiliar	Seminario investigativo II	S794	48	Pregrado	34320	43862	43992	4.25
+94	94409143	Cédula	Cali-Valle	Luis Fernando López	Auxiliar	Investigación en Ciencias del Deporte y la Educación Física	S685B	48	Pregrado	34320	43862	43992	4.25
+95	31983500	Cédula	Cali-Valle	Luz Aída Gómez Vélez	Auxiliar	Gestión Integral en Salud y Ambiente	8496	48	Pregrado	34320	43862	44020	5.25
+95	31983500	Cédula	Cali-Valle	Luz Aída Gómez Vélez	Auxiliar	Gestión Integral en Salud y Ambiente	8495	48	Pregrado	34320	43862	44020	5.25
+95	31983500	Cédula	Cali-Valle	Luz Aída Gómez Vélez	Auxiliar	Biología	B1490	48	Pregrado	34320	43862	44020	5.25
+95	31983500	Cédula	Cali-Valle	Luz Aída Gómez Vélez	Auxiliar	Biología	B1492	48	Pregrado	34320	43862	44020	5.25
+96	31839757	Cédula	Cali-Valle	Luz Dary González Restrepo	Auxiliar	Electiva Profesional VI: Evaluación Social de Proyectos en Salud Pública	10496	48	Pregrado	34320	43862	43992	4.25
+96	31839757	Cédula	Cali-Valle	Luz Dary González Restrepo	Auxiliar	Salud y Medio Ambiente	2494	48	Pregrado	34320	43862	43992	4.25
+96	31839757	Cédula	Cali-Valle	Luz Dary González Restrepo	Auxiliar	Sociología de la Salud	5495	38	Pregrado	34320	43862	43992	4.25
+97	9153208	Cédula	Maria la Baja	Manuel de Jesus Arcia Herrera	Auxiliar	Toxicología Ocupacional	9490	48	Pregrado	34320	43864	43992	4.25
+97	9153208	Cédula	Maria la Baja	Manuel de Jesus Arcia Herrera	Auxiliar	Toxicología Ocupacional	9491	48	Pregrado	34320	43864	43992	4.25
+97	9153208	Cédula	Maria la Baja	Manuel de Jesus Arcia Herrera	Auxiliar	Medicina del Trabajo	S6490	48	Pregrado	34320	43864	43992	4.25
+98	94510695	Cédula	Cali-Valle	Marchell Cestagalli Galeano	Auxiliar	Electiva Profesional IV: Planeación Estratégica en la Gestión de la Salud II	9496	48	Pregrado	34320	43862	43992	4.25
+98	94510695	Cédula	Cali-Valle	Marchell Cestagalli Galeano	Auxiliar	Finanzas de la Salud	7495	48	Pregrado	34320	43862	43992	4.25
+98	94510695	Cédula	Cali-Valle	Marchell Cestagalli Galeano	Auxiliar	Finanzas de la Salud	S7495	48	Pregrado	34320	43862	43992	4.25
+99	6390455	Cédula	Cali-Valle	Marcos Daniel Candelo Dominguez	Auxiliar	Actividades de alto Riesgo	S7491	48	Pregrado	34320	43862	43992	4.25
+99	6390455	Cédula	Cali-Valle	Marcos Daniel Candelo Dominguez	Auxiliar	Riesgos de las condiciones de seguridad - Tecnológico	S8491	48	Pregrado	34320	43862	43992	4.25
+99	6390455	Cédula	Cali-Valle	Marcos Daniel Candelo Dominguez	Auxiliar	Riesgo en la agroindustria	S9491	38	Pregrado	34320	43862	43992	4.25
+100	66906003	Cédula	Cali-Valle	María Andrea Salamanca Jaramillo	Auxiliar	Administración y Legislación Educativa	595	48	Pregrado	34320	43862	43992	4.25
+100	66906003	Cédula	Cali-Valle	María Andrea Salamanca Jaramillo	Auxiliar	Administración y Legislación Educativa	S594	48	Pregrado	34320	43862	43992	4.25
+100	66906003	Cédula	Cali-Valle	María Andrea Salamanca Jaramillo	Auxiliar	Nutrición y Salud infantil	420	38	Pregrado	34320	43862	43992	4.25
+100	66906003	Cédula	Cali-Valle	María Andrea Salamanca Jaramillo	Auxiliar	Administración y Legislación Educativa	520	48	Pregrado	34320	43862	43992	4.25
+101	66977009	Cédula	Cali-Valle	María del Pilar Cosme Ambuila	Auxiliar	Práctica Pedagógica VI    	695	58	Pregrado	34320	43869	43992	4.25
+101	66977009	Cédula	Cali-Valle	María del Pilar Cosme Ambuila	Auxiliar	Práctica Pedagógica VI    	S694	58	Pregrado	34320	43869	43992	4.25
+102	29180255	Cédula	Cali-Valle	Maria Fernanda Franco Marin	Auxiliar	Electiva II ( Sistema de Gestión Ambiental ISO 14001 y Desarrollo Sustentable)	6490B	48	Pregrado	34320	43862	43992	4.25
+102	29180255	Cédula	Cali-Valle	Maria Fernanda Franco Marin	Auxiliar	Electiva I 	5490	38	Pregrado	34320	43862	43992	4.25
+102	29180255	Cédula	Cali-Valle	Maria Fernanda Franco Marin	Auxiliar	Electiva III ( Sistema de Gestión de Salud Ocupacional y Seguridad Indsutrial OHSAS 18001)	7491	48	Pregrado	34320	43862	43992	4.25
+103	38555730	Cédula	Cali-Valle	Maribel Garzon Mejia	Auxiliar	Anatomia y Fisiologia	S3490	48	Pregrado	34320	43862	43992	4.25
+103	38555730	Cédula	Cali-Valle	Maribel Garzon Mejia	Auxiliar	Anatomia y Fisiologia	3492	48	Pregrado	34320	43862	43992	4.25
+103	38555730	Cédula	Cali-Valle	Maribel Garzon Mejia	Auxiliar	Anatomia y Fisiologia	S3491	48	Pregrado	34320	43862	43992	4.25
+104	31969776	Cédula	Cali-Valle	Martha Cecilia Soto Torres	Auxiliar	Psicología del Desarrollo Infantil 	395	38	Pregrado	34320	43862	43992	4.25
+104	31969776	Cédula	Cali-Valle	Martha Cecilia Soto Torres	Auxiliar	Psicología Educativa 	595	38	Pregrado	34320	43862	43992	4.25
+104	31969776	Cédula	Cali-Valle	Martha Cecilia Soto Torres	Auxiliar	Psicología Educativa 	S594	38	Pregrado	34320	43862	43992	4.25
+104	31969776	Cédula	Cali-Valle	Martha Cecilia Soto Torres	Auxiliar	Axiología del Educador	S894	38	Pregrado	34320	43862	43992	4.25
+105	31902052	Cédula	Cali-Valle	Martha Emilia Ortegón Yañez	Auxiliar	Fundamentos de la pedagogía	SB185	48	Pregrado	34320	43862	44020	5.25
+105	31902052	Cédula	Cali-Valle	Martha Emilia Ortegón Yañez	Auxiliar	Didáctica General	220	48	Pregrado	34320	43862	44020	5.25
+105	31902052	Cédula	Cali-Valle	Martha Emilia Ortegón Yañez	Auxiliar	Didáctica General 	S285	48	Pregrado	34320	43862	44020	5.25
+106	66947361	Cédula	Cali- Valle	Martha Lucia Hinestroza Filigrana	Auxiliar	Responsabilidad Social Empresarial	8496	38	Pregrado	34320	43862	43992	4.25
+106	66947361	Cédula	Cali- Valle	Martha Lucia Hinestroza Filigrana	Auxiliar	Electiva Profesional IV: Planeación Estratégica en la Gestión de la Salud II	9595	48	Pregrado	34320	43862	43992	4.25
+106	66947361	Cédula	Cali- Valle	Martha Lucia Hinestroza Filigrana	Auxiliar	Responsabilidad Social Empresarial	8495	38	Pregrado	34320	43862	43992	4.25
+107	34605985	Cédula	Santander de Quilichao	Martha Lucia Sánchez Orozco	Auxiliar	Políticas y Sistemas de Salud	6495	48	Pregrado	34320	43862	43992	4.25
+107	34605985	Cédula	Santander de Quilichao	Martha Lucia Sánchez Orozco	Auxiliar	Políticas y Sistemas de Salud	S6495	48	Pregrado	34320	43862	43992	4.25
+107	34605985	Cédula	Santander de Quilichao	Martha Lucia Sánchez Orozco	Auxiliar	Constitución Política e instituciones 	S2495B	38	Pregrado	34320	43862	43992	4.25
+107	34605985	Cédula	Santander de Quilichao	Martha Lucia Sánchez Orozco	Auxiliar	Constitución Política y Fundamentos del Sistema de Seguridad Social 	3490	48	Pregrado	34320	43862	43992	4.25
+108	1144025489	Cédula	Cali-Valle	Mauren Rengifo Giraldo	Auxiliar	Iniciativa Empresarial	2495	38	Pregrado	34320	43862	43992	4.25
+108	1144025489	Cédula	Cali-Valle	Mauren Rengifo Giraldo	Auxiliar	Iniciativa Empresarial	2495B	38	Pregrado	34320	43862	43992	4.25
+108	1144025489	Cédula	Cali-Valle	Mauren Rengifo Giraldo	Auxiliar	Administración en Salud I	S2495	48	Pregrado	34320	43862	43992	4.25
+108	1144025489	Cédula	Cali-Valle	Mauren Rengifo Giraldo	Auxiliar	Iniciativa Empresarial	2496	38	Pregrado	34320	43862	43992	4.25
+109	75089192	Cédula	Manizales	Mauricio Giraldo Diaz	Auxiliar	Epidemiología Laboral	S8491	48	Pregrado	34320	43862	43992	4.25
+109	75089192	Cédula	Manizales	Mauricio Giraldo Diaz	Auxiliar	Toxicología Ocupacional	S9491	48	Pregrado	34320	43862	43992	4.25
+109	75089192	Cédula	Manizales	Mauricio Giraldo Diaz	Auxiliar	Epidemiología Laboral	8490	48	Pregrado	34320	43862	43992	4.25
+109	75089192	Cédula	Manizales	Mauricio Giraldo Diaz	Auxiliar	Toxicología Ocupacional	9490B	48	Pregrado	34320	43862	43992	4.25
+110	1144041418	Cédula	Cali-Valle	Melisa Osorio García	Auxiliar	Didáctica de la Literatura Infantil	S394	48	Pregrado	34320	43862	43992	4.25
+110	1144041418	Cédula	Cali-Valle	Melisa Osorio García	Auxiliar	Juego, Lúdica y Creatividad	S494	48	Pregrado	34320	43862	43992	4.25
+110	1144041418	Cédula	Cali-Valle	Melisa Osorio García	Auxiliar	Didáctica de la Literatura Infantil	S324	48	Pregrado	34320	43862	43992	4.25
+110	1144041418	Cédula	Cali-Valle	Melisa Osorio García	Auxiliar	Didáctica General	S285B	48	Pregrado	34320	43862	43992	4.25
+111	32625704	Cédula	Cali-Valle	Mery Margarita Iglesias Vargas	Auxiliar	Bioquimica	3490	48	Pregrado	34320	43862	43992	4.25
+111	32625704	Cédula	Cali-Valle	Mery Margarita Iglesias Vargas	Auxiliar	Bioquimica	3490B	48	Pregrado	34320	43862	43992	4.25
+111	32625704	Cédula	Cali-Valle	Mery Margarita Iglesias Vargas	Auxiliar	Bioquimica	3492B	48	Pregrado	34320	43862	43992	4.25
+112	16690898	Cédula	Cali-Valle	Miguel Andres Paier Millan	Auxiliar	Fundamentos de Salud Ocupacional	S3490	38	Pregrado	34320	43862	43992	4.25
+112	16690898	Cédula	Cali-Valle	Miguel Andres Paier Millan	Auxiliar	Metodos de identificación y evaluación de riesgos	4490B	48	Pregrado	34320	43862	43992	4.25
+112	16690898	Cédula	Cali-Valle	Miguel Andres Paier Millan	Auxiliar	Metodos de identificación y evaluación de riesgos	4491	48	Pregrado	34320	43862	43992	4.25
+113	1144074544	Cédula	Cali-Valle	Miguel Angel Afanador Restrepo	Auxiliar	Epistemología 	4490	38	Pregrado	34320	43862	44020	5.25
+113	1144074544	Cédula	Cali-Valle	Miguel Angel Afanador Restrepo	Auxiliar	Epistemología 	4490B	38	Pregrado	34320	43862	44020	5.25
+113	1144074544	Cédula	Cali-Valle	Miguel Angel Afanador Restrepo	Auxiliar	Comunicación y lenguaje I	B195	48	Pregrado	34320	43862	44020	5.25
+114	31573353	Cédula	Cali-Valle	Mónica González Valderrama	Auxiliar	Fundamentos de Psicología	S294	48	Pregrado	34320	43862	43992	4.25
+114	31573353	Cédula	Cali-Valle	Mónica González Valderrama	Auxiliar	Fundamentos de Psicología	S224	48	Pregrado	34320	43862	43992	4.25
+114	31573353	Cédula	Cali-Valle	Mónica González Valderrama	Auxiliar	Nutrición y Salud infantil	S494	38	Pregrado	34320	43862	43992	4.25
+115	1130668877	Cédula	Cali-Valle	Myriam Vanessa Angulo Bamba	Auxiliar	Práctica Pedagógica IV         	S494	58	Pregrado	34320	43862	43992	4.25
+115	1130668877	Cédula	Cali-Valle	Myriam Vanessa Angulo Bamba	Auxiliar	Práctica Pedagógica IX	S994	58	Pregrado	34320	43862	43992	4.25
+115	1130668877	Cédula	Cali-Valle	Myriam Vanessa Angulo Bamba	Auxiliar	Práctica Pedagógica IX	920	58	Pregrado	34320	43862	43992	4.25
+115	1130668877	Cédula	Cali-Valle	Myriam Vanessa Angulo Bamba	Auxiliar	Electiva III: Gerencia Estratégica III	1020	38	Pregrado	34320	43862	43992	4.25
+115	1130668877	Cédula	Cali-Valle	Myriam Vanessa Angulo Bamba	Auxiliar	Radio Pedagogía al día		32	Asesoría	23100	43862	43992	4.25
+116	31946085	Cédula	Cali-Valle	Nadia Rizo Fernández	Auxiliar	Administración del Talento Humano	5496	48	Pregrado	34320	43862	43992	4.25
+116	31946085	Cédula	Cali-Valle	Nadia Rizo Fernández	Auxiliar	Finanzas de la Salud	7496	48	Pregrado	34320	43862	43992	4.25
+116	31946085	Cédula	Cali-Valle	Nadia Rizo Fernández	Auxiliar	Administración del Talento Humano	5495	48	Pregrado	34320	43862	43992	4.25
+117	27314597	Cédula	Cumbitara	Nancy Fabiola Rodriguez Bastidas	Auxiliar	Electiva III ( Sistema de Gestión de Salud Ocupacional y Seguridad Indsutrial OHSAS 18001)	S7491	48	Pregrado	34320	43862	43992	4.25
+117	27314597	Cédula	Cumbitara	Nancy Fabiola Rodriguez Bastidas	Auxiliar	Electiva III ( Sistema de Gestión de Salud Ocupacional y Seguridad Indsutrial OHSAS 18001)	7490B	48	Pregrado	34320	43862	43992	4.25
+118	66952159	Cédula	Cali-Valle	Nayibe Eliana Valencia Parada	Auxiliar	Fundamentos de Epidemiología	3496	48	Pregrado	34320	43862	43992	4.25
+118	66952159	Cédula	Cali-Valle	Nayibe Eliana Valencia Parada	Auxiliar	Fundamentos de Epidemiología	S3496	48	Pregrado	34320	43862	43992	4.25
+118	66952159	Cédula	Cali-Valle	Nayibe Eliana Valencia Parada	Auxiliar	Fundamentos de Epidemiología	S3495	48	Pregrado	34320	43862	43992	4.25
+118	66952159	Cédula	Cali-Valle	Nayibe Eliana Valencia Parada	Auxiliar	Fundamentos de Epidemiología	3495B	48	Pregrado	34320	43862	43992	4.25
+119	16769932	Cédula	Cali-Valle	Nelson Eduardo Rojas Franco	Auxiliar	Investigación de Accidentes de trabajo y enfermedades profesionales, Analisis estadistico, modelo de causalidad	7491	48	Pregrado	34320	43862	43992	4.25
+119	16769932	Cédula	Cali-Valle	Nelson Eduardo Rojas Franco	Auxiliar	Electiva II ( Sistema de Gestión Ambiental ISO 14001 y Desarrollo Sustentable)	6491	48	Pregrado	34320	43862	43992	4.25
+119	16769932	Cédula	Cali-Valle	Nelson Eduardo Rojas Franco	Auxiliar	Electiva I (Sistemas de gestión de calidad ISO 9001)	5491	38	Pregrado	34320	43862	43992	4.25
+119	16769932	Cédula	Cali-Valle	Nelson Eduardo Rojas Franco	Auxiliar	Electiva IV (Fundamentos de Auditoria en Sistemas de Gestión Integral)	10491	48	Pregrado	34320	43862	43992	4.25
+120	36543780	Cédula	Santa Marta	Gilma Nory Trujillo Ledezma	Auxiliar	Psicología del Desarrollo Infantil 	S394	48	Pregrado	34320	43862	44020	5.25
+120	36543780	Cédula	Santa Marta	Gilma Nory Trujillo Ledezma	Auxiliar	Comunicación y lenguaje I	SB124	48	Pregrado	34320	43862	44020	5.25
+120	36543780	Cédula	Santa Marta	Gilma Nory Trujillo Ledezma	Auxiliar	Comunicación y lenguaje I	B120	48	Pregrado	34320	43862	44020	5.25
+120	36543780	Cédula	Santa Marta	Gilma Nory Trujillo Ledezma	Auxiliar	Comunicación y Lenguaje 	B1493	48	Pregrado	34320	43862	44020	5.25
+121	16652707	Cédula	Cali- Valle	Omar Vidal Castillo	Auxiliar	Biología	SB1491	48	Pregrado	34320	43897	44020	4.25
+121	16652707	Cédula	Cali- Valle	Omar Vidal Castillo	Auxiliar	Biología	B1491	48	Pregrado	34320	43897	44020	4.25
+122	16792142	Cédula	Cali-Valle	Omar Vivas Rodriguez	Auxiliar	Actividades de alto Riesgo	7491	48	Pregrado	34320	43862	43992	4.25
+122	16792142	Cédula	Cali-Valle	Omar Vivas Rodriguez	Auxiliar	Riesgo en las actividades de minería	10490B	38	Pregrado	34320	43862	43992	4.25
+122	16792142	Cédula	Cali-Valle	Omar Vivas Rodriguez	Auxiliar	Riesgo en las actividades de minería	10491	38	Pregrado	34320	43862	43992	4.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Seminario Investigativo I	695	48	Pregrado	34320	43862	44020	5.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Sociología del Deporte	S525	48	Pregrado	34320	43862	44020	5.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Sociología del Deporte	S525B	48	Pregrado	34320	43862	44020	5.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Sociología del Deporte	S585	48	Pregrado	34320	43862	44020	5.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Filosofía de la Educación	B195	48	Pregrado	34320	43862	44020	5.25
+123	1143936535	Cédula	Cali-Valle	Oscar Alonso Acosta Barrientos	Auxiliar	Didáctica General 	S225	48	Pregrado	34320	43862	44020	5.25
+124	1130618388	Cédula	Cali-Valle	Oscar Andrés Peña Zuleta	Auxiliar	Aprendizaje y Desarrollo Motor	S2722	38	Pregrado	34320	43862	43992	4.25
+124	1130618388	Cédula	Cali-Valle	Oscar Andrés Peña Zuleta	Auxiliar	Didáctica de la Educación Física y el deporte	720	48	Pregrado	34320	43862	43992	4.25
+124	1130618388	Cédula	Cali-Valle	Oscar Andrés Peña Zuleta	Auxiliar	Práctica pedagógica I	S3722	58	Pregrado	34320	43862	43992	4.25
+125	79688959	Cédula	Bogota D.C	Oscar Armando Marmolejo Quitián	Auxiliar	Gestión de Proyectos   Educativos	795	48	Pregrado	34320	43862	43992	4.25
+125	79688959	Cédula	Bogota D.C	Oscar Armando Marmolejo Quitián	Auxiliar	Gestión de Proyectos   Educativos	S794	48	Pregrado	34320	43862	43992	4.25
+125	79688959	Cédula	Bogota D.C	Oscar Armando Marmolejo Quitián	Auxiliar	Gestión de Proyectos   Educativos	720	48	Pregrado	34320	43862	43992	4.25
+126	94451729	Cédula	Cali-Valle	Oscar Fernando Serna Mejia	Auxiliar	Dibujo Técnico e Interpretación Grafica	2490	48	Pregrado	34320	43862	43992	4.25
+126	94451729	Cédula	Cali-Valle	Oscar Fernando Serna Mejia	Auxiliar	Dibujo Técnico e Interpretación Grafica	2490B	48	Pregrado	34320	43862	43992	4.25
+126	94451729	Cédula	Cali-Valle	Oscar Fernando Serna Mejia	Auxiliar	Dibujo Técnico e Interpretación Grafica	2492	48	Pregrado	34320	43862	43992	4.25
+126	94451729	Cédula	Cali-Valle	Oscar Fernando Serna Mejia	Auxiliar	Dibujo Técnico e Interpretación Grafica	2492B	48	Pregrado	34320	43862	43992	4.25
+127	16841284	Cédula	Jamundi	Oscar Marino López Mallama	Auxiliar	Principios de Farmacoeconomía	S6495	48	Pregrado	34320	43862	43992	4.25
+127	16841284	Cédula	Jamundi	Oscar Marino López Mallama	Auxiliar	Electiva Profesional II: Farmacoeconomia I	S7495	48	Pregrado	34320	43862	43992	4.25
+127	16841284	Cédula	Jamundi	Oscar Marino López Mallama	Auxiliar	Microeconomía	3496	48	Pregrado	34320	43862	43992	4.25
+127	16841284	Cédula	Jamundi	Oscar Marino López Mallama	Auxiliar	Sociología de la Salud	5496	38	Pregrado	34320	43862	43992	4.25
+127	16841284	Cédula	Jamundi	Oscar Marino López Mallama	Auxiliar	Microeconomía	S3496	48	Pregrado	34320	43862	43992	4.25
+128	16760341	Cédula	Cali-Valle	Pedro Pablo Sierra Gomez	Auxiliar	Riesgo en actividades de la minería	10490	38	Pregrado	34320	43862	43992	4.25
+128	16760341	Cédula	Cali-Valle	Pedro Pablo Sierra Gomez	Auxiliar	Riesgo en actividades de la minería	10490C	38	Pregrado	34320	43862	43992	4.25
+128	16760341	Cédula	Cali-Valle	Pedro Pablo Sierra Gomez	Auxiliar	Riesgo en actividades de la minería	S10491	38	Pregrado	34320	43862	43992	4.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Epistemología	4492	38	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Socioantropología	SB125	38	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Didáctica de las Ciencias Sociales y Naturales	695	48	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Epistemología	S4490	38	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Humanidades	SB124	38	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Humanidades	B120	38	Pregrado	34320	43862	44020	5.25
+129	66834915	Cédula	Cali- Valle	Piedad Uribe Villegas	Auxiliar	Epistemología	6496	48	Pregrado	34320	43862	44020	5.25
+130	66982669	Cédula	Cali-Valle	Raquel Andrea Gómez Mussenth	Auxiliar	Didáctica del Inglés I	S894	48	Pregrado	34320	43862	43992	4.25
+130	66982669	Cédula	Cali-Valle	Raquel Andrea Gómez Mussenth	Auxiliar	Didáctica del Inglés II	S994	48	Pregrado	34320	43862	43992	4.25
+130	66982669	Cédula	Cali-Valle	Raquel Andrea Gómez Mussenth	Auxiliar	Seminario de Actualización en inglés	S1094	48	Pregrado	34320	43862	43992	4.25
+130	66982669	Cédula	Cali-Valle	Raquel Andrea Gómez Mussenth	Auxiliar	Didáctica del Inglés II	920	48	Pregrado	34320	43862	43992	4.25
+130	66982669	Cédula	Cali-Valle	Raquel Andrea Gómez Mussenth	Auxiliar	Seminario de Actualización en inglés	1020	48	Pregrado	34320	43862	43992	4.25
+131	31971087	Cédula	Cali-Valle	Raquel Leonor Osses Naranjo	Auxiliar	Currículo de la Educación Inicial y Básica 	S694	48	Pregrado	34320	43862	44020	5.25
+131	31971087	Cédula	Cali-Valle	Raquel Leonor Osses Naranjo	Auxiliar	Fundamentos de la Pedagogía	SB125	48	Pregrado	34320	43862	44020	5.25
+131	31971087	Cédula	Cali-Valle	Raquel Leonor Osses Naranjo	Auxiliar	Práctica Pedagógica I	S325	58	Pregrado	34320	43862	44020	5.25
+131	31971087	Cédula	Cali-Valle	Raquel Leonor Osses Naranjo	Auxiliar	Práctica Pedagógica I	S325B	58	Pregrado	34320	43862	44020	5.25
+131	31971087	Cédula	Cali-Valle	Raquel Leonor Osses Naranjo	Auxiliar	Currículo de la Educación Inicial y Básica 	695	48	Pregrado	34320	43862	44020	5.25
+132	1107039618	Cédula	Cali-Valle	Raul Alberto Cuervo Mulet	Asistente	Biología	SB1490	48	Pregrado	38480	43862	44020	5.25
+132	1107039618	Cédula	Cali-Valle	Raul Alberto Cuervo Mulet	Asistente	Trabajo de Grado I	S9491	38	Pregrado	38480	43862	44020	5.25
+132	1107039618	Cédula	Cali-Valle	Raul Alberto Cuervo Mulet	Asistente	Bioquimica	S3490	48	Pregrado	38480	43862	44020	5.25
+132	1107039618	Cédula	Cali-Valle	Raul Alberto Cuervo Mulet	Asistente	Bioquimica	3491	48	Pregrado	38480	43862	44020	5.25
+133	31576734	Cédula	Cali-Valle	Sandra Liliana Diaz Aguirre	Auxiliar	Ergonomía II	S8491	48	Pregrado	34320	43862	43992	4.25
+133	31576734	Cédula	Cali-Valle	Sandra Liliana Diaz Aguirre	Auxiliar	Ergonomía I	7490	48	Pregrado	34320	43862	43992	4.25
+133	31576734	Cédula	Cali-Valle	Sandra Liliana Diaz Aguirre	Auxiliar	Ergonomía I	7490C	48	Pregrado	34320	43862	43992	4.25
+134	1144186126	Cédula	Cali-Valle	Sebastián Cristobal Alzate Agudelo	Auxiliar	Anatomía Funcional	S225	48	Pregrado	34320	43862	43992	4.25
+134	1144186126	Cédula	Cali-Valle	Sebastián Cristobal Alzate Agudelo	Auxiliar	Anatomía Funcional	S225B	48	Pregrado	34320	43862	43992	4.25
+134	1144186126	Cédula	Cali-Valle	Sebastián Cristobal Alzate Agudelo	Auxiliar	Anatomía Funcional	S285	48	Pregrado	34320	43862	43992	4.25
+134	1144186126	Cédula	Cali-Valle	Sebastián Cristobal Alzate Agudelo	Auxiliar	Anatomía Funcional	S285B	48	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Lenguajes Expresivos III	795	48	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Lenguajes Expresivos III	S794	48	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Juego, Lúdica y Creatividad	420	48	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Lenguajes Expresivos III	720	48	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Juego, Lúdica y Creatividad	S425	38	Pregrado	34320	43862	43992	4.25
+135	66764736	Cédula	Palmira-Valle	Shellmar Stella Drada Salazar	Auxiliar	Juego, Lúdica y Creatividad	S425B	38	Pregrado	34320	43862	43992	4.25
+136	76305036	Cédula	Popayan 	Silvio Jair Alegría Fernández	Auxiliar	Administración en Salud II	S3495	48	Pregrado	34320	43864	43992	4.25
+136	76305036	Cédula	Popayan 	Silvio Jair Alegría Fernández	Auxiliar	Indicadores Hospitalarios	S4495	48	Pregrado	34320	43864	43992	4.25
+136	76305036	Cédula	Popayan 	Silvio Jair Alegría Fernández	Auxiliar	Administración Clínica y Hospitalaria	S6495	48	Pregrado	34320	43864	43992	4.25
+137	1144054782	Cédula	Cali-Valle	Stephania Hermann Agudelo	Auxiliar	Ética y axiología del educador	S725	38	Pregrado	34320	43862	43992	4.25
+137	1144054782	Cédula	Cali-Valle	Stephania Hermann Agudelo	Auxiliar	Práctica Pedagógica IX	995	58	Pregrado	34320	43862	43992	4.25
+137	1144054782	Cédula	Cali-Valle	Stephania Hermann Agudelo	Auxiliar	Práctica Pedagógica II     	220	48	Pregrado	34320	43862	43992	4.25
+137	1144054782	Cédula	Cali-Valle	Stephania Hermann Agudelo	Auxiliar	Ética y axiología del educador	S785	38	Pregrado	34320	43862	43992	4.25
+137	1144054782	Cédula	Cali-Valle	Stephania Hermann Agudelo	Auxiliar	Investigación y Educación	595	48	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Fundamentos del entrenamiento deportivo	S325	48	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Fundamentos del entrenamiento deportivo	S325B	48	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Disciplinas deportivas de cooperación y oposición I 	S725	48	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Práctica Pedagógica IV	S625	58	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Práctica Pedagógica IV	S685B	58	Pregrado	34320	43862	43992	4.25
+138	1144042286	Cédula	Cali-Valle	Stiven Peláez Erazo	Auxiliar	Virtualización Disciplinas deportivas de cooperación y oposición I 		40	Asesoría	23100	43862	43992	4.25
+139	16930899	Cédula	Cali- Valle	Tito Octavio Usma Garzon	Auxiliar	Aprendizaje y Desarrollo Motor	S285B	38	Pregrado	34320	43862	43992	4.25
+139	16930899	Cédula	Cali- Valle	Tito Octavio Usma Garzon	Auxiliar	Práctica Pedagógica V	S785	58	Pregrado	34320	43862	43992	4.25
+139	16930899	Cédula	Cali- Valle	Tito Octavio Usma Garzon	Auxiliar	Deporte e inclusión social	S685B	48	Pregrado	34320	43862	43992	4.25
+139	16930899	Cédula	Cali- Valle	Tito Octavio Usma Garzon	Auxiliar	Atención Educativa a la diversidad	S485	48	Pregrado	34320	43862	43992	4.25
+140	16775566	Cédula	Cali-Valle	Víctor Alfonso Silva Montealegre	Auxiliar	Gerencia de Recursos Físicos y Medicamentos	7496	48	Pregrado	34320	43862	43992	4.25
+140	16775566	Cédula	Cali-Valle	Víctor Alfonso Silva Montealegre	Auxiliar	Gerencia de Recursos Físicos y Medicamentos	S7495	48	Pregrado	34320	43862	43992	4.25
+140	16775566	Cédula	Cali-Valle	Víctor Alfonso Silva Montealegre	Auxiliar	Gerencia de Recursos Físicos y Medicamentos	7495	48	Pregrado	34320	43862	43992	4.25
+140	16775566	Cédula	Cali-Valle	Víctor Alfonso Silva Montealegre	Auxiliar	Química II	2490	48	Pregrado	34320	43862	43992	4.25
+140	16775566	Cédula	Cali-Valle	Víctor Alfonso Silva Montealegre	Auxiliar	Química II	S2490	48	Pregrado	34320	43862	43992	4.25
+141	66853083	Cédula	Cali-Valle	Vivian Alderete Caicedo	Auxiliar	Protección y Bienestar Infantil	995	48	Pregrado	34320	43862	43992	4.25
+141	66853083	Cédula	Cali-Valle	Vivian Alderete Caicedo	Auxiliar	Práctica Pedagógica II     	S294	48	Pregrado	34320	43862	43992	4.25
+141	66853083	Cédula	Cali-Valle	Vivian Alderete Caicedo	Auxiliar	Electiva II: Gerencia estratégica II	S994	38	Pregrado	34320	43862	43992	4.25
+141	66853083	Cédula	Cali-Valle	Vivian Alderete Caicedo	Auxiliar	Electiva III: Gerencia Estratégica III	S1094	38	Pregrado	34320	43862	43992	4.25
+142	29679290	Cédula	Cali-Valle	Viviana Colonia Manzano	Auxiliar	Electiva I ( Sistema de Gestión calidad ISO 9001)	S5490	38	Pregrado	34320	43862	43992	4.25
+142	29679290	Cédula	Cali-Valle	Viviana Colonia Manzano	Auxiliar	Electiva II ( Sistema de Gestión Ambiental ISO 14001 y Desarrollo Sustentable)	6490	48	Pregrado	34320	43862	43992	4.25
+142	29679290	Cédula	Cali-Valle	Viviana Colonia Manzano	Auxiliar	Electiva III ( Sistema de Gestión de Salud Ocupacional y Seguridad Indsutrial OHSAS 18001)	7490C	48	Pregrado	34320	43862	43992	4.25
+143	6229247	Cédula	Cali-Valle	Vladimir Ramirez Diaz	Auxiliar	Higiene II (Riesgo Químico)	6491	38	Pregrado	34320	43865	43992	4.25
+143	6229247	Cédula	Cali-Valle	Vladimir Ramirez Diaz	Auxiliar	Higiene I (Valores Limites permisibles)	5491	38	Pregrado	34320	43865	43992	4.25
+143	6229247	Cédula	Cali-Valle	Vladimir Ramirez Diaz	Auxiliar	Higiene II (Riesgo Químico)	6490B	38	Pregrado	34320	43865	43992	4.25
+144	16719433	Cédula	Cali-Valle	William Velásquez Valencia	Auxiliar	Riesgos de las condiciones de seguridad - Tecnológico	8490B	48	Pregrado	34320	43862	43992	4.25
+144	16719433	Cédula	Cali-Valle	William Velásquez Valencia	Auxiliar	Riesgos de las condiciones de seguridad - Tecnológico	8491	48	Pregrado	34320	43862	43992	4.25
+144	16719433	Cédula	Cali-Valle	William Velásquez Valencia	Auxiliar	Procesos Industriales y de Servicios	4491	38	Pregrado	34320	43862	43992	4.25
+145	29117472	Cédula	Cali-Valle	Yamileth Puerta Acevedo	Auxiliar	Ergonomía II	8491	48	Pregrado	34320	43862	43992	4.25
+145	29117472	Cédula	Cali-Valle	Yamileth Puerta Acevedo	Auxiliar	Riesgo Biológico	S6490	38	Pregrado	34320	43862	43992	4.25
+145	29117472	Cédula	Cali-Valle	Yamileth Puerta Acevedo	Auxiliar	Fundamentos de Salud Ocupacional	3491	38	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Psicomotricidad	S3722	38	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Práctica pedagógica II	S485	58	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Corrientes Pedagógicas de la Educación Física	S225	48	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Corrientes Pedagógicas de la Educación Física	S225B	48	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Práctica Pedagógica I	S385B	58	Pregrado	34320	43862	43992	4.25
+146	1130662123	Cédula	Cali-Valle	Yeimy Sofia Meneses Beltrán	Auxiliar	Currículo para la Educación Física	S325	48	Pregrado	34320	43862	43992	4.25
+147	51648452	Cédula	Cali-Valle	Zoraida Margot Pinto Barrero	Auxiliar	Riesgo Biológico	6490	38	Pregrado	34320	43862	43992	4.25
+147	51648452	Cédula	Cali-Valle	Zoraida Margot Pinto Barrero	Auxiliar	Riesgo Biológico	S6491	38	Pregrado	34320	43862	43992	4.25
+147	51648452	Cédula	Cali-Valle	Zoraida Margot Pinto Barrero	Auxiliar	Riesgo Biológico	6491	38	Pregrado	34320	43862	43992	4.25
+147	51648452	Cédula	Cali-Valle	Zoraida Margot Pinto Barrero	Auxiliar	Riesgo Biológico	6490B	38	Pregrado	34320	43862	43992	4.25
